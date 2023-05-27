@@ -1,0 +1,11 @@
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\bin\Debug\quantumemu.exe.config
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\bin\Debug\quantumemu.exe
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\bin\Debug\quantumemu.pdb
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.csproj.AssemblyReference.cache
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.Form1.resources
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.Properties.Resources.resources
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.csproj.GenerateResource.cache
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.csproj.CoreCompileInputs.cache
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.exe
+C:\Users\alfxi\source\repos\quantumemu\quantumemu\obj\Debug\quantumemu.pdb
